@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Gabriela🔍
+<img src="https://imgur.com/a/qYzSVS6">
 
-<!--
-**Gabridata/Gabridata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driven by curiosity, I dive into data to uncover hidden patterns and trends that reveal growth opportunities. My marketing background helps me identify key questions that data can answer, and my writing skills allow me to communicate these insights effectively.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gabriela-alvarado-g#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gabriela-alvarado-g#gh-dark-mode-only)
+
+### 🧰 Languages and Tools
+
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+
