@@ -1,5 +1,7 @@
 ## Hi, I'm Gabriela🔍
 <img src="https://imgur.com/a/qYzSVS6.png">
+<img src="https://i.imgur.com/weNbhGZ.png">
+
 
 Driven by curiosity, I dive into data to uncover hidden patterns and trends that reveal growth opportunities. My marketing background helps me identify key questions that data can answer, and my writing skills allow me to communicate these insights effectively.
 
@@ -7,5 +9,5 @@ Driven by curiosity, I dive into data to uncover hidden patterns and trends that
 
 ### 🧰 Languages and Tools
 
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>]
 
