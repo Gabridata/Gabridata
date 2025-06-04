@@ -13,7 +13,7 @@ Driven by curiosity, I dive into data to uncover hidden patterns and trends that
 
 
 
-| Data Analysis | Marketing and Design |
+| Data Analysis|
 |---|---|
 |🌱 Python | 🌱 Tableau |
 |🌱 PostgreSQL |🌱 Power BI  |
