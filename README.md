@@ -13,11 +13,12 @@ Driven by curiosity, I dive into data to uncover hidden patterns and trends that
 
 
 
-| Data Analysis|
+| Data Analysis| Marketing
 |---|---|
-|🌱 Python | 🌱 Tableau |
-|🌱 PostgreSQL |🌱 Power BI  |
-|🌱 Excel | 🌱 CRM |
+|🌱 Python |🌱 Excel |
+|🌱 PostgreSQL |🌱 CMS |
+|🌱 Power BI| 🌱 GA4 |
+|🌱 Tableau | 🌱 CRM |
 
 ---
 
