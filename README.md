@@ -1,7 +1,7 @@
-[![Github-profile-data.png](https://i.postimg.cc/wTTT73wn/Github-profile-data.png)](https://postimg.cc/G9V1f3wj)
+[![Github-profile-data.png]https://i.postimg.cc/PrWftb8N/datagithub.jpg
 
 <div align="center">
-<h1 align="center">Hi, I'm Gabriela🔍</h1>
+<h1 align="center">Hi, I'm Gabriela</h1>
 </div>
 
 Driven by curiosity, I dive into data to uncover hidden patterns and trends that reveal growth opportunities. My marketing background helps me identify key questions that data can answer, and my writing skills allow me to communicate these insights effectively.
@@ -15,6 +15,7 @@ Driven by curiosity, I dive into data to uncover hidden patterns and trends that
 
 | Data Analysis| Marketing
 |---|---|
+|🌱 BigQuery |🌱 Looker Studio |
 |🌱 Python |🌱 Excel |
 |🌱 PostgreSQL |🌱 CMS |
 |🌱 Power BI| 🌱 GA4 |
