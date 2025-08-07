@@ -1,4 +1,4 @@
-[![datagithub.jpg](https://i.postimg.cc/PrWftb8N/datagithub.jpg)](https://postimg.cc/rKp2jrjL)
+[data-cover.jpg](https://postimg.cc/WhSW9Y39)
 
 <div align="center">
 <h1 align="center">Hi, I'm Gabriela</h1>
