@@ -1,5 +1,4 @@
-[![Github-profile-data.png]https://i.postimg.cc/PrWftb8N/datagithub.jpg
-
+[datagithub.jpg](https://postimg.cc/rKp2jrjL)
 <div align="center">
 <h1 align="center">Hi, I'm Gabriela</h1>
 </div>
