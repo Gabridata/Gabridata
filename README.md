@@ -1,5 +1,4 @@
-[data-cover.jpg](https://postimg.cc/WhSW9Y39)
-
+[![data-cover.jpg](https://i.postimg.cc/MpJCph88/data-cover.jpg)](https://postimg.cc/WhSW9Y39)
 <div align="center">
 <h1 align="center">Hi, I'm Gabriela</h1>
 </div>
