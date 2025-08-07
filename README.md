@@ -9,14 +9,7 @@ Driven by curiosity, I dive into data to uncover hidden patterns and trends that
 
 ###  Tools:
 
-
-
-
-| Data Analysis| Marketing
-|---|---|---|
-| BigQuery | Looker Studio | Python |
-| Excel | PostgreSQL | Power BI |
-| Tableau | CMS | CRM |
+✓ BigQuery  ✓ Looker Studio  ✓ Python ✓ Excel  ✓ PostgreSQL  ✓ Power BI ✓ Tableau  ✓ CMS  ✓ CRM
 
 ---
 
