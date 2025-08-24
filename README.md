@@ -30,10 +30,10 @@ Interactive visualizations with full business context. Each dashboard is linked 
 
 Curious about my transition from Marketing to Data Analytics? Here I break down my story, my methodology, and the business thinking behind my analyses.
 
-[**![Notion](https://img.icons8.com/color/16/000000/notion.png) View my story on Notion**](https://spiky-cheque-e84.notion.site/Where-data-meets-creativity-20b6cf9a3caa808fbafc21134636233)
+[**![Notion](https://img.icons8.com/color/16/000000/notion.png) View my story on Notion**](https://spiky-cheque-e84.notion.site/Where-data-meets-creativity-20b6cf9a3caa808fbaf6c21134636233)
 
 ---
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/gabriela-alvarado-g/?locale=en_US)
