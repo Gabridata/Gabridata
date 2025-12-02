@@ -36,4 +36,4 @@ Curious about my transition from Marketing to Data Analytics? Here I break down 
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/gabriela-alvarado-g/?locale=en_US)
+[![LinkedIn](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/gabriela-alvarado-g/)
