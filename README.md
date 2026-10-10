@@ -12,9 +12,8 @@ Driven by curiosity, I dive into data to uncover hidden patterns and trends that
 | **Data Analysis** | **Data Visualization** | **Databases & Tools** | **Cloud & AI** |
 |:---|:---|:---|:---|
 | SQL | Tableau | BigQuery | Google Cloud (GCP) |
-| Python | Looker Studio | PostgreSQL | AI Agents |
-| Excel/Google Sheets | Power BI | Git/GitHub | Prompt Engineering |
-| | | | LLM Evaluation |
+| Python | Looker Studio | PostgreSQL | AI Agents & Prompt Engineering |
+| Excel/Google Sheets | Power BI | Git/GitHub | LLM Evaluation |
 
 ### Data Dashboards & Case Studies:
 
