@@ -6,20 +6,23 @@
 Driven by curiosity, I dive into data to uncover hidden patterns and trends that reveal growth opportunities. My marketing background helps me identify key questions that data can answer, and my writing skills allow me to communicate these insights effectively.
 
 ---
+
 ### Tech Stack:
 
-| **Data Analysis** | **Data Visualization** | **Databases & Tools** |
-|:---|:---|:---|
-| SQL | Tableau | BigQuery |
-| Python | Looker Studio | PostgreSQL |
-| Excel/Google Sheets | Power BI | Git/GitHub |
+| **Data Analysis** | **Data Visualization** | **Databases & Tools** | **Cloud & AI** |
+|:---|:---|:---|:---|
+| SQL | Tableau | BigQuery | Google Cloud (GCP) |
+| Python | Looker Studio | PostgreSQL | AI Agents |
+| Excel/Google Sheets | Power BI | Git/GitHub | Prompt Engineering |
+| | | | LLM Evaluation |
 
 ### Data Dashboards & Case Studies:
 
 Interactive visualizations with full business context. Each dashboard is linked to a detailed case study explaining the problem, analysis, and impact.
 
-### • Tech Cost Insights:
-[**![Tableau](https://img.icons8.com/color/16/000000/tableau-software.png) View Dashboard**](https://public.tableau.com/app/profile/gabriela.alvarado1370/viz/TechCostInsights/TECHCOSTINSIGHTS) | [**Read Case Study**](https://spiky-cheque-e84.notion.site/From-27-8-CI-CD-Failures-to-80K-Savings-Data-Driven-Pipeline-Optimization-for-Startups-20e6cf9a3caa80e5a99edd90f31435d0?pvs=74)
+### • Operational Bottleneck Agent:
+[**![YouTube](https://img.icons8.com/color/16/000000/youtube-play.png) Watch Demo**](https://www.youtube.com/watch?v=yfPunqRRAGE&source_ve_path=OTY3MTQ&embeds_referring_euri=https%3A%2F%2Fspiky-cheque-e84.notion.site%2F&embeds_referring_origin=https%3A%2F%2Fspiky-cheque-e84.notion.site) | [**Read Case Study**](https://spiky-cheque-e84.notion.site/Operational-bottleneck-agent-3cb6cf9a3caa80ba9407cf5fe3a2e3dc)
+
 
 ### • Energy Analytics:  
 [**![Looker Studio](https://img.icons8.com/color/16/000000/google-data-studio.png) View Dashboard**](https://lookerstudio.google.com/u/0/reporting/31c81b8b-886a-477e-adbe-7e5fe3770cbe/page/2crPF) | [**Read Case Study**](https://spiky-cheque-e84.notion.site/Optimizing-DERs-Performance-Driving-7-4K-in-Tenant-Savings-with-a-Data-Driven-Dashboard-2276cf9a3caa809caa83de69b91c55ef)
